@@ -4,5 +4,7 @@ Proyecto de Web Scraping con Python para ver los lenguajes de programación más
 
 Primero que nada, es necesario tener python instalado. 
 Segundo, hay que descargar las dependencias y librerías de python.
+Para ello, copiar en la consola el siguiente comando: 
+
 pip install requests beautifulsoup4 pandas openpyxl
 
