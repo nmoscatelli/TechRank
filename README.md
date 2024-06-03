@@ -1,11 +1,19 @@
 # TechRank
-Es muy importante leer todo el README. Contiene información sobre las dependencias necesarias (sin ellas el programa no va a funcionar).
+>[!IMPORTANT]
+>Es necesario leer todo el README. Contiene información sobre las dependencias necesarias (sin ellas el programa no va a funcionar).
 
-Proyecto de Web Scraping con Python para ver los lenguajes de programación más utilizados y las noticias más novedosas sobre tecnología. Permite guardar la información en formato .xlsx o .csv.
+## Introducción
+¿Qué es TechRank? TechRank es un proyecto de Web Scraping con Python para ver los lenguajes de programación más utilizados y las noticias más novedosas sobre tecnología. Además, TechRank permite guardar la información en formato .xlsx o .csv.
 
-Primero que nada, es necesario tener python instalado. 
-Segundo, hay que descargar las dependencias y librerías de python.
-Para ello, copiar en la consola el siguiente comando: 
+## Instalación
+<b> 1. </b> Es necesario tener python instalado. <br> <br>
+<b> 2. </b> Es necesario descargar las dependencias y librerías de python.
+Para ello, copiar en la consola el siguiente comando: <br> 
+`pip install requests beautifulsoup4 pandas openpyxl` <br> <br>
+<b> 3. </b> Acceder y ejecutar el archivo .py <br>
+Para poder ejecutar el archivo .py es necesario utilizar la terminal. Hay que usar el comando `cd` para poder acceder al directorio en el que se encuentra el archivo y luego escribir en la terminal `python techRank.py` para poder ejecutarlo. 
 
-pip install requests beautifulsoup4 pandas openpyxl
-
+## Tecnologías utilizadas
+- Python
+- BeautifulSoup
+- Pandas
