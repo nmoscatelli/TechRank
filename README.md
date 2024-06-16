@@ -32,7 +32,7 @@ Para poder ejecutar el archivo .py es necesario utilizar la terminal. Hay que us
 ###### Es un archivo NoteBook de JupyterLite
 <b> 1. Acceder a JupyterLite </b> <br>
 <a href="https://jupyterlite.github.io/demo/lab/index.html"> JupyterLite </a> <br> <br>
-<b> 2. Subir los archivos TechRank.ipynb y los archivos que se quieran visualizar en JupyterLite </b>
+<b> 2. Subir los archivos TechRank.ipynb y los archivos que se quieran visualizar en JupyterLite </b> <br> <br> 
 <b> 3. Abrir el archivo TechRank.ipynb y seguir los pasos </b>
 
 ## Tecnologías utilizadas
