@@ -4,7 +4,7 @@
 
 ## Introducción
 ¿Qué es TechRank? TechRank es un proyecto de Web Scraping con Python para ver los lenguajes de programación más utilizados y las noticias más novedosas sobre tecnología. Además, TechRank permite guardar la información en formato .xlsx o .csv. <br>
-Gracias a JupyterLite, es posible generar imágenes para poder visualizar la información encontrada con el programa y poder visualizarla en dos gráficas. <br> <br>
+Gracias a JupyterLite, es posible generar imágenes para poder visualizar la información encontrada con el programa. <br> <br>
 
 #### Las imágenes que podemos obtener son las siguientes: <br>
 ##### Tabla de los lenguajes de programación más utilizados<br>
