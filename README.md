@@ -9,7 +9,7 @@ Gracias a JupyterLite, es posible generar imágenes para poder visualizar la inf
 #### Las imágenes que podemos obtener son las siguientes: <br>
 ##### Tabla de los lenguajes de programación más utilizados<br>
 ![image](https://github.com/nmoscatelli/TechRank/assets/118897334/6d5e1fde-f6bb-4a93-9df5-c6fc81477405)<br><br>
-##### Tabla de las últimas 10 noticias sobre tecnología<br>
+##### Tabla de las noticias más novedosas sobre tecnología<br>
 ![image](https://github.com/nmoscatelli/TechRank/assets/118897334/153b4681-f6d5-4bb0-bff7-6d3d57d75ae6)<br><br>
 ##### Gráfico circular de los lenguajes de programación más utilizados<br>
 ![image](https://github.com/nmoscatelli/TechRank/assets/118897334/ea669151-6b4e-4ecc-bc79-05970a81576b)<br><br>
